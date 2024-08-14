@@ -34,7 +34,7 @@ games105 课程：[Lecture03 Character Kinematics: Forward and Inverse Kinematic
 - [ ] 计算性能
 - [ ] 计算机视觉
 - [ ] 自然语言处理：预训练
-- [ ] 强化学习
+- [x] 强化学习
 - [ ] 高斯过程
 - [ ] 超参数优化
 - [ ] 生成对抗网络
