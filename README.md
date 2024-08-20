@@ -37,7 +37,7 @@ games105 课程：[Lecture03 Character Kinematics: Forward and Inverse Kinematic
 - [x] 强化学习
 - [ ] 高斯过程
 - [ ] 超参数优化
-- [ ] 生成对抗网络
+- [x] 生成对抗网络
 - [ ] 推荐系统
 
 # 多刚体动力学
